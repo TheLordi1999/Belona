@@ -151,7 +151,7 @@ require("../config/conection.php");
 <body>
 
 <div class="container">
-    <a href="../listarProductos/listarProductos.php" class="btn-create">Crear Nuevo Producto</a>
+    <a href="../crearProductos/formulario.php" class="btn-create">Crear Nuevo Producto</a>
 
     <h2>Lista de Productos</h2>
 

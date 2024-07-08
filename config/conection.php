@@ -2,7 +2,7 @@
 $hostname = "localhost";
 $user = "root";
 $password = "";
-$database = "data.belona";
+$database = "belona.data";
 $conection = new mysqli($hostname, $user, $password, $database);
 
 if ($conection->connect_error) {
