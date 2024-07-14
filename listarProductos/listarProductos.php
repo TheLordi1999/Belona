@@ -171,11 +171,11 @@ require("../config/conection.php");
     <table id="productTable">
         <thead>
             <tr>
-                <th>Nombre</th>
-                <th>Precio</th>
-                <th>Color</th>
-                <th>Talla</th>
-                <th>Cantidad</th>
+                <th>Medias/Color</th>
+                <th>precio</th>
+                <th>Talla 6-8</th>
+                <th>Talla 8-10</th>
+                <th>Talla 10-12</th>
                 <th>Marca</th>
                 <th>Tipo de Producto</th>
                 <th>Referencia</th>
